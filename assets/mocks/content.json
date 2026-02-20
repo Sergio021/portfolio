@@ -1,0 +1,101 @@
+[ 
+    {
+        "id": 0,
+        "name": "Flipbook Danna Paola",
+        "image":"danna-book.png" ,
+        "type": "Landing Page",
+        "year": 2021,
+        "description": "Esta landing fue realizada para la promoción del album K.O de Danna Paola.<br>Para poder iniciar sesión era requerida una cuenta de Spotify, ya que el objetivo era realizar \"presave\" del album completo. Al iniciar sesión, podias desplazarte entre las fotos exclusivas de Danna Paola referentes a su nuevo albúm.",
+        "tech": "PHP, MySQL, JavaScript, Laravel, HTML, CSS",
+        "url": "https://www.facebook.com/reel/2774557219526716",
+        "deprecated": true
+    },
+    {
+        "id": 1,
+        "name": "runa hr",
+        "image":"runaRH.png" ,
+        "type": "Sitio Web",
+        "year": 2020,
+        "description": "",
+        "tech": "WordPress, HTML, PHP, CSS",
+        "url": "https://runahr.com/mx/",
+        "deprecated": false
+    },
+    {
+        "id": 2,
+        "name": "Dämadi Sweethomes",
+        "image":"damadi.png" ,
+        "type": "Sitio Web",
+        "year": 2021,
+        "description": "",
+        "tech": "WordPress, HTML, PHP, CSS",
+        "url": "https://damadimx.com",
+        "deprecated": false
+    },
+    {
+        "id": 3,
+        "name": "Universal Music México",
+        "image":"umm.png" ,
+        "type": "Sitio Web",
+        "year": 2021,
+        "description": "Participación en fase de desarrollo",
+        "tech": "WordPress, HTML, PHP, CSS",
+        "url": "https://www.universalmusicmexico.com/#/",
+        "deprecated": false
+    },
+    {
+        "id": 4,
+        "name": "Digitas México",
+        "image":"digitas.png" ,
+        "type": "Sitio Web",
+        "year": 2024,
+        "description": "Mantenimiento y gestión de contenido",
+        "tech": "Drupal, HTML",
+        "url": "https://www.universalmusicmexico.com/#/",
+        "deprecated": false
+    },
+    {
+        "id": 5,
+        "name": "Mide tu tiroides",
+        "image":"midetutiroides.png" ,
+        "type": "Sitio Web",
+        "year": 2025,
+        "description": "Mantenimiento, gestión de contenido, incorporación de nuevas funcionalidades",
+        "tech": "WordPress, PHP, JavaScript, HTML, CSS",
+        "url": "https://midetutiroides.endocrinologia.org.mx/",
+        "deprecated": false
+    },
+    {
+        "id": 6,
+        "name": "Thyroid Aware",
+        "image":"thyroidaware.png" ,
+        "type": "Sitio Web",
+        "year": 2025,
+        "description": "Mantenimiento, gestión de contenido, incorporación de nuevas funcionalidades",
+        "tech": "WordPress, PHP, JavaScript, HTML, CSS",
+        "url": "https://midetutiroides.endocrinologia.org.mx/",
+        "deprecated": false
+    },
+    {
+        "id": 7,
+        "name": "Audi Latinoamerica",
+        "image":"audilatam.png" ,
+        "type": "Sitio Web",
+        "year": 2025,
+        "description": "Gestión de contenido, creación de nuevas secciones",
+        "tech": "AEM, HTML, JavaScript",
+        "url": "https://www.audilatinoamerica.com/es/",
+        "deprecated": false
+    },
+    {
+        "id": 8,
+        "name": "Nivea",
+        "image":"nivea.png" ,
+        "type": "Sitio Web",
+        "year": 2025,
+        "description": "Gestión de contenido, creación de nuevas secciones",
+        "tech": "Sitecore, HTML, JavaScript",
+        "url": "https://www.audilatinoamerica.com/es/",
+        "deprecated": false
+    }
+]
