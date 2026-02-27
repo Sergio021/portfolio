@@ -167,7 +167,7 @@ async function main() {
                 "year": 2025,
                 "description": "Para el sitio de Nivea, mi labor se centró en la gestión de contenido y la creación de secciones a través del CMS sitecore, el cual permite la gestión de multisitios y multilenguaje.",
                 "tech": "Sitecore, HTML, JavaScript",
-                "url": "https://www.audilatinoamerica.com/es/",
+                "url": "https://www.nivea.com.mx/",
                 "deprecated": false
             }
         ];
@@ -255,6 +255,7 @@ function verDetalle(id) {
     document.getElementById('modalType').textContent = project.type + " - "+ project.year;
     document.getElementById('modalDescription').textContent = project.description;
     document.getElementById('modalImage').src = `assets/img/${project.image}`;
+    document.getElementById('modalImage').alt = project.name;
     document.getElementById('modalTech').textContent = `Tecnologías: ${project.tech}`;
     const urlLink = document.getElementById('modalUrl');
     urlLink.href = project.url;
