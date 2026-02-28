@@ -11774,3 +11774,7 @@ a.dropdown-item {
 a.dropdown-item:hover{
   color: #1B1B1B;
 }
+.flag{
+  width: 18px;
+  object-fit: cover;
+}
