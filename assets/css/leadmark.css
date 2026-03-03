@@ -11510,7 +11510,7 @@ textarea.form-control {
 .header.components-header {
   max-height: 450px !important;
   height: 450px;
-  dispaly: none;
+  display: none;
   background-position: center -140px;
 }
 
@@ -11762,7 +11762,19 @@ textarea.form-control {
   opacity: 1;
   visibility: visible;
 }
+
 .portfolio-item a{
   color: #fff7f5;
   text-decoration: underline;
+}
+
+a.dropdown-item {
+  color: #1B1B1B;
+}
+a.dropdown-item:hover{
+  color: #1B1B1B;
+}
+.flag{
+  width: 18px;
+  object-fit: cover;
 }
