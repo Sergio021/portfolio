@@ -11008,7 +11008,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 p {
-  font-size: calc(13px + (14 - 13) * ((100vw - 320px) / (1200 - 320)));
+  font-size: calc(14px + (14 - 13) * ((100vw - 320px) / (1200 - 320)));
   font-weight: 400;
   opacity: .8;
   line-height: 1.5;
